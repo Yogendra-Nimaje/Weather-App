@@ -1,16 +1,9 @@
 # weather_app
 
-A Weather App
+  # Weather App 🌤️
+A Flutter-based weather application that provides real-time weather updates for any location. The app fetches weather data using an API and displays temperature, humidity, wind speed, and more in an intuitive UI. Using an API key from OpenWeatherMap
 
-## Getting Started
+**ScreenShots**
 
-This project is a starting point for a Flutter application.
+<img width="321" alt="image" src="https://github.com/user-attachments/assets/6dd53286-4190-4f0a-84d7-e267d5b8801a" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
